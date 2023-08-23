@@ -1,0 +1,12 @@
+11357e9ba71eea8b36b253ecd1a92e04 *DESCRIPTION
+0bc764a9dde70ea0c50fb69fd411026a *LICENSE
+ff224a6198b9b871e261cc790346537b *NAMESPACE
+4d74bb087ce7f72cddeed7493e9ede3d *R/blsSelect.R
+13e7746a5600387b4015255971a119c1 *R/blsViewer.R
+56167f5afa5c268c5489fdc479381a6f *R/blsViewerServer.R
+6d9dfa2f47ba8d8ff6347e29cec716c3 *R/blsViewerUI.R
+6e4614bd6dc3df08f2dcfee200e7b4c1 *R/imports.R
+66db8598112e29594c5ef729b3a29bcb *R/unemploymentPlot.R
+56dd1f49016edd3c5c93a15c92023b46 *README.md
+a6301c9442c5cef9e1eac9f7428a046d *inst/extdata/blsData.sqlite
+2279f443a38070d6fd36a0d29db13363 *man/blsViewer.Rd
